@@ -25,7 +25,7 @@ Djjango installation
 Create a Django project
 
 ```python
-django-admin createproject myapp
+django-admin startproject myapp
 
 # to enter into the path
 cd myapp
