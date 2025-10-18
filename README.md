@@ -49,5 +49,10 @@ creating a Django app:
 python manage.py startapp hello
 ```
 
+Create Admin:
 
+```python
+python manage.py createsuperuser
+```
+-it will ask for a username and then the password. When you type the password you will not be able to see it. you can then use the username and password to login to the admin panel
 
